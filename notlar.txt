@@ -1,0 +1,3 @@
+ProductDisplay adında bir component oluşturduk. Burda product a ait 
+tüm js ve html dosyalarını yazdık ve ana html sayfasında çağırdık. 
+main.js ve index.html  ise global olarak kullanılanları bıraktık.
